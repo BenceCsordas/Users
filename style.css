@@ -78,6 +78,7 @@ h1 {
     border-radius: 10px;
     border: none;
     padding: 15px;
+    overflow: hidden;
 }
 .g2:nth-child(1){
     background-color: darkblue;
